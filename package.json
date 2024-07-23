@@ -20,5 +20,9 @@
   },
   "dependencies": {
     "chai-spies": "^1.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
 }
